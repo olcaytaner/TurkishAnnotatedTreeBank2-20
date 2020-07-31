@@ -1,0 +1,1 @@
+( (S (NP (DP {morphologicalAnalysis=bu+DET}{metaMorphemes=bu}{turkish=Bu}) (NP {morphologicalAnalysis=aile+NOUN+A3PL+PNON+LOC}{metaMorphemes=aile+lAr+DA}{turkish=ailelerde}))  (, {morphologicalAnalysis=,+PUNC}{metaMorphemes=,}{turkish=,}) (NP {morphologicalAnalysis=koca+NOUN+A3PL+PNON+NOM}{metaMorphemes=koca+lAr}{turkish=kocalar}))  )

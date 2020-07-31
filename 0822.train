@@ -1,0 +1,1 @@
+( (S (NP (ADJP {morphologicalAnalysis=yeni+ADJ}{metaMorphemes=yeni}{turkish=Yeni}) (NP (DP {morphologicalAnalysis=bir+DET}{metaMorphemes=bir}{turkish=bir}) (NP {morphologicalAnalysis=birleş+VERB+POS^DB+NOUN+INF2+A3SG+PNON+NOM}{metaMorphemes=birleş+mA}{turkish=birleşme})) )  (NP {morphologicalAnalysis=sonra+NOUN+A3SG+P3SG+LOC}{metaMorphemes=sonra+sH+nDA}{turkish=sonrasında}))  )
